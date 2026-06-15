@@ -22,7 +22,7 @@ The dashboard is designed to provide **actionable insights into sales trends, pr
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](dashboard_v2.png)
 
 ---
 
